@@ -4,7 +4,7 @@ import Card from "./UI/Card";
 import classes from "./Calculator.module.css";
 const Phi = (x) => {
     let x1 = Math.trunc(x*100)/100;
-    if(x1==x) return ztable(x);    
+    if(x1===x) return ztable(x);    
     let x2 = x1+0.01
     let p1 = ztable(x1);
     let p2 = ztable(x2);
