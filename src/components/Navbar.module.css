@@ -1,0 +1,14 @@
+.navbar {
+    font-size: larger;
+    background: rgb(0,19,36);
+    background: linear-gradient(90deg, rgba(0,19,36,0.9923319669664741) 60%, rgba(170,0,255,1) 100%);
+    padding:0.1rem;
+    font-weight: bold;
+    font-family: sans-serif;
+    color: #83A8C7;
+    font-size: 30px;
+
+}
+.navbar ul li{
+    list-style:none;
+}
